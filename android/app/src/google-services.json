@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "55357650606",
+    "firebase_url": "https://bitcoin-74a84.firebaseio.com",
+    "project_id": "bitcoin-74a84",
+    "storage_bucket": "bitcoin-74a84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55357650606:android:f3e535bf2a4d985f501f3f",
+        "android_client_info": {
+          "package_name": "com.rohitganji.nasarebuild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55357650606-eoh7n22pskp92k8i9m5pig9bcf4nnhh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyV1B7olkjhhOy8Tji9rj9SzxipH8yp8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55357650606-eoh7n22pskp92k8i9m5pig9bcf4nnhh4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55357650606-d4l1nnsm8mv392mkr59qh1scsjqisv18.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rohitganji.nasarebuild"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
