@@ -7,7 +7,7 @@ class Network {
   var db;
 
   openDB() async {
-    db = await Db.create("mongodb+srv://Rohit:Rohit.2001@cluster0.1g6nx.azure.mongodb.net/nasa?retryWrites=true&w=majority");
+    db = await Db.create("mongodb+srv://<username>:<password>@cluster0.1g6nx.azure.mongodb.net/nasa?retryWrites=true&w=majority");
   await db.open();
 }
 
