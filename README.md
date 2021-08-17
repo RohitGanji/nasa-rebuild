@@ -1,4 +1,3 @@
-# NASA REBUILD
+# NASA SpaceApps Challenge 2020
 
-All of earth, on your finger-tips.
-
+This flutter project has been created with an idea to build a NASA related app with better UI compared to the traditional app available in Google Play Store.
