@@ -4,7 +4,7 @@ import time
 from selenium.webdriver.firefox.options import Options
 from pymongo import MongoClient
 
-client = MongoClient('mongodb+srv://<username>:<password>@cluster0.1g6nx.azure.mongodb.net/<dbname>?retryWrites=true&w=majority')
+client = MongoClient('<db_client>')
 db = client['nasa']['launch_schedule']
 options = Options()
 options.headless = True
